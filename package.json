@@ -1,0 +1,16 @@
+{
+  "name": "k173642_A4_Jquery_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Ahmed-Shakeel-798.github.io/firstproject",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
