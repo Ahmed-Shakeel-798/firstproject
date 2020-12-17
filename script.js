@@ -1,5 +1,9 @@
 //
-$(function(){
+if(!jQuery){
+	alert("No jquery");
+}
+else{
+	$(function(){
 
 
 	var answers = [{
@@ -172,3 +176,5 @@ $(function(){
 		$('#game_container #score_container').slideDown(500);
 	}
 })
+
+}
